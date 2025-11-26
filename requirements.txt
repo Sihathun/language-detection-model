@@ -1,0 +1,14 @@
+torch>=1.12
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+jupyter
+pillow
+# optional (OCR)
+pytesseract
+opencv-python
+easyocr
